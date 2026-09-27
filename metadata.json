@@ -1,0 +1,6 @@
+{
+  "name": "ARIC",
+  "description": "ARIC - Personal AI Voice Assistant with programmable routines, phone automation, local memory, and multilingual intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
